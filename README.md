@@ -8,7 +8,7 @@ $$$$$ https://plus.google.com/+KaizKhatri $$$$$
 
 (2) Move file to conky called "Straingth_conky" to .conky Directory By Following command
     
-       mv Straingth_conky ~/.conky
+       mv Straingth_conky ~/.conky/
     
 ###########################################
 
